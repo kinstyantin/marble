@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="8" viewBox="0 0 12 8">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a89574;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Message_small" data-name="Message small" class="cls-1" d="M215.79,2114.99h10.477l-3.282-3.6L221,2112.67l-1.958-1.26Zm-0.8-.9,0.014-6.23,3.3,2.94Zm0.891-7.08,5.164,4.52,5.225-4.52H215.879Zm11.114,6.97-0.015-6.12-3.253,2.94Z" transform="translate(-215 -2107)"/>
+</svg>
